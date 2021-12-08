@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibsthiaguera&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibsthiaguera&layout=compact)](https://github.com/ibsthiaguera/github-readme-stats)
+
 <!--
 **ibsthiaguera/ibsthiaguera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
