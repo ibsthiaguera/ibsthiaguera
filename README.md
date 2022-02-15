@@ -1,10 +1,16 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-<div>
-  <a href="https://github.com/ibsthiaguera">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibsthiaguera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-  <!-- <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibsthiaguera&layout=compact&langs_count=5&theme=dracula"/> -->
-</div>
+<p align="center">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ibsthiaguera&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakLabel=48D62D&ring=48D62D&fire=48D62D">
+</p>
+
+<p align="center">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ibsthiaguera&hide_border=true&theme=react-dark&bg_color=111111&color=FFFFFF&line=48D62D&custom_title=ibsthiaguera%20Contribution%20Graph">
+</p>
+
+<p align="left">
+  <img align="center" src="https://komarev.com/ghpvc/?username=ibsthiaguera&color=brightgreen&style=flat-square">
+</p>
 
 
 <!--
